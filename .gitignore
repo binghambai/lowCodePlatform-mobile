@@ -1,0 +1,15 @@
+# 忽略编译输出和临时文件
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# 忽略 IDE 和编辑器生成的文件
+.idea/
+.vscode/
+
+# 忽略日志文件
+log/
